@@ -8,4 +8,4 @@ Anmol Agarwal [18116013]
 Saksham Sharma [18116067]   
 
 Instructor :   
-(Raksha Sharma)[https://www.iitr.ac.in/~CSE/Raksha_Sharma]    
+[Raksha Sharma](https://www.iitr.ac.in/~CSE/Raksha_Sharma)
