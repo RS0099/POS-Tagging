@@ -1,0 +1,24 @@
+Top 10 frequent used words in train set
+the_ART 1180008
+be_VERB 709494
+of_PREP 574262
+to_PREP 486506
+and_CONJ 481520
+a_ART 416056
+in_PREP 363806
+he_PRON 239690
+have_VERB 236912
+it_PRON 202414
+
+
+Top 10 frequent used words in test set
+the_ART 474920
+be_VERB 304134
+of_PREP 241500
+and_CONJ 201230
+to_PREP 197396
+a_ART 168678
+in_PREP 142662
+he_PRON 94740
+have_VERB 91082
+it_PRON 85706
