@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import xml.dom.minidom as xd
 import os
 import csv
@@ -16,7 +14,6 @@ n=1
 folders=os.listdir(path=root)
 for folder in folders:
 	f_path=os.path.join(root,folder)
-	
 	files=os.listdir(path=f_path)
 	for file in files:
 		f2_path=os.path.join(f_path,file)
@@ -24,10 +21,8 @@ for folder in folders:
 
 
 for file_path in all_file_paths:
-	
 	DOMTREE =xd.parse(file_path)
 	w_tags=DOMTREE.getElementsByTagName("w")
-
 	for w in w_tags:
 		word=w.getAttribute("hw")
 		tag=w.getAttribute("pos")
