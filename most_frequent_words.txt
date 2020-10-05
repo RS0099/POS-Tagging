@@ -10,7 +10,6 @@ he 239693
 have 236916
 it 202487
 
-
 Top 10 most frequently used words in test set
 the 474922
 be 304134
