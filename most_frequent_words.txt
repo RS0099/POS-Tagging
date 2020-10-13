@@ -1,4 +1,4 @@
-Top 10 frequent used words in train set
+Top 10 most frequently used words in train set
 the 1180019
 be 709494
 of 574265
@@ -10,7 +10,7 @@ he 239693
 have 236916
 it 202487
 
-Top 10 frequent used words in test set
+Top 10 most frequently used words in test set
 the 474922
 be 304134
 of 241500
