@@ -11,4 +11,4 @@ Instructor :
 [Raksha Sharma](https://www.iitr.ac.in/~CSE/Raksha_Sharma)
 
 
-Link to the test and train details : [Click Here](https://drive.google.com/file/d/1poRiHLU8_lKxgHi1EQxQOHfQyI0nbsJR/view?usp=sharing)
+[Test and train files](https://drive.google.com/drive/folders/1JKX3gp-eCFTg3vSRpxjfPi1-i79uTjUl?usp=sharing)
