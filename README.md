@@ -9,3 +9,6 @@ Saksham Sharma [18116067]
 
 Instructor :   
 [Raksha Sharma](https://www.iitr.ac.in/~CSE/Raksha_Sharma)
+
+
+Link to the test and train details : [Click Here](https://drive.google.com/file/d/1poRiHLU8_lKxgHi1EQxQOHfQyI0nbsJR/view?usp=sharing)
