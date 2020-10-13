@@ -9,7 +9,6 @@ PRON 633099
 ADV 569683
 UNC 163405
 INTERJ 7642
-
  
 Top 10 frequent used words in test set
 SUBST 927195
