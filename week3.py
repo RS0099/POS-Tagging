@@ -1,7 +1,7 @@
 import csv
 from collections import Counter
 
-path = 'word_tag_train_freq.csv'
+path = 'word_tag_train_freq.csv' 
 word_tag = list(csv.reader(open(path, encoding="utf8")))
 
 word_freq_map = {}
