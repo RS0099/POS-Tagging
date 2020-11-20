@@ -2,7 +2,7 @@ import csv
 from collections import Counter
 
 path = 'word_tag_train_freq.csv'
-word_tag = list(csv.reader(open(path, encoding="utf8"), delimiter=','))
+word_tag = list(csv.reader(open(path, encoding="utf8")))
 
 word_freq_map = {}
 tag_freq_map = {}
@@ -10,8 +10,6 @@ word_tag_map = {}
 
 for row in word_tag[1:]:
     word = row[0].split("_")[0].lower()
-    if(len(word) > 4 and word[0]=='t' and word[1]=='h' and word[2] == 'a' and word[3] == 't' and word[4] == ' '):
-        print(row)
     if word not in word_freq_map: 
         word_freq_map[word] = int(row[1])
     else :
@@ -34,7 +32,7 @@ for x, y in Counter(tag_freq_map).most_common(10):
 print()
 
 path = 'word_tag_test_freq.csv'
-word_tag = list(csv.reader(open(path, encoding="utf8"), delimiter=','))
+word_tag = list(csv.reader(open(path, encoding="utf8")))
 
 word_freq_map = {}
 tag_freq_map = {}
