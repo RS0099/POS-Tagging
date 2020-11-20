@@ -3,7 +3,7 @@ from collections import Counter
 
 path_train = 'word_tag_train_freq.csv'
 word_tag = list(csv.reader(open(path_train, encoding="utf8")))
-
+ 
 word_tag_freq_train = {}
 word_freq_train = {}
 word_tag_prob_train = {}
