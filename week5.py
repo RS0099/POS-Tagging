@@ -45,8 +45,6 @@ miss = 0
 
 confusion_matrix = {}
 
-# print(len(all_tags)) 
-
 cnt = 0
 
 for i in sorted(all_tags):
@@ -82,38 +80,3 @@ with open('word_tag_test.csv','r',encoding="utf8", newline='') as file:
 
 print("accuracy = " , hit/(hit+miss)*100)
 print("\n")
-print(cnt)
-sorted_matrix = {}
-
-wrongtaga = {}
-wrongtagb = {}
-
-for i in confusion_matrix:
-	for j in confusion_matrix[i]:
-		if(i!=j):
-			sorted_matrix[confusion_matrix[i][j]] = i + " " + j
-			if i not in wrongtaga:
-				wrongtaga[i] = 0
-			if j not in wrongtagb:
-				wrongtagb[j] = 0
-				
-			wrongtaga[i] = wrongtaga[i] + confusion_matrix[i][j]
-			wrongtagb[j] = wrongtagb[j] + confusion_matrix[i][j]
-
-# print(wrongtaga)
-# print(wrongtagb)
-
-
-# for i in sorted(sorted_matrix.keys()):
-# 	print(i,sorted_matrix[i])
-
-# for i in sorted(wrongtaga.items(), key=lambda kv: kv[1]):
-# 	print(i)
-
-
-# print("\n\n\n")
-
-# for i in sorted(wrongtagb.items(), key=lambda kv: kv[1]):
-# 	print(i)
-
-# print(confusion_matrix)
