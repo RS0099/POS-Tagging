@@ -10,6 +10,7 @@ that 90210
 for 84469
 was 82819
 
+
 Most frequently used tags in train data:
 NN1 1573862
 PUN 1014364
@@ -22,6 +23,7 @@ AV0 420335
 PNP 360704
 CJC 317635
 
+
 Most frequently used words in test data:
 the 237462
 of 120751
@@ -33,6 +35,7 @@ was 38175
 that 37652
 is 37354
 it 36617
+
 
 Most frequently used tags in test data:
 NN1 612668
