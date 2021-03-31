@@ -9,5 +9,4 @@ Saksham Sharma [18116067]
 
 Instructor :   
 [Raksha Sharma](https://www.iitr.ac.in/~CSE/Raksha_Sharma)
-
-You can download the [Test and Train files](https://drive.google.com/drive/folders/1FUxfH2ITpn4K7Gm-XxTHjL0ptMF6uQEn?usp=sharing)   
+   
