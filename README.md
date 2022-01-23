@@ -3,7 +3,7 @@
 This is the project which we undertook as a part of the semester assignment for the course CSN - 371 (Artificial Intelligence). 
 
 Team Members :   
-Aditya Kumar Singh 
+Aditya Kumar Singh   
 Anmol Agarwal   
 Saksham Sharma  
 
